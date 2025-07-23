@@ -8,10 +8,10 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
   ### Replace <username> with GitHub username ###
-  ###############################################
+  ################################################
   DOCKER_IMAGE_NAME: Rod-Welsh-azure-ttt
   AZURE_WEBAPP_NAME: Rod-Welsh-ttt-app
-  ###############################################
+  ################################################
 
 jobs:
   build:
